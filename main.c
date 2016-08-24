@@ -8,6 +8,13 @@ void func1()
 	printf("Hello world\n");
 }
 
+
+int func2(int x, int y)
+{
+	printf("Performing OP:  %d + %d\n", x,y);
+	return x +y;
+}
+
 int main()
 {
 	printf("Hello World. this is a message\n");
@@ -15,4 +22,6 @@ int main()
 	int xsadf = 5672;
 	int y = 23;// comment 1
 	func1();
+	int ans = func2(34,23);
+	
 }
