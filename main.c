@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h>
 #define alan 1
 int main()
 {
