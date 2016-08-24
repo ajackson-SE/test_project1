@@ -11,6 +11,7 @@ void func1()
 
 int func2(int x, int y)
 {
+	printf("Performing OP:  %d + %d\n", x,y);
 	return x +y;
 }
 
