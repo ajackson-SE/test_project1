@@ -4,6 +4,7 @@
 
 void func1()
 {
+	int x = 45;
 	printf("Hello world\n");
 }
 
