@@ -23,6 +23,6 @@ int main()
 	int y = 23;// comment 1
 	func1();
 	int ans = func2(34,23);
-	int y = 65;
+	//int y = 65;
 	
 }
