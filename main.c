@@ -24,6 +24,7 @@ int main()
 	func1();
 	int ans = func2(34,23);
 	y = 45;
+	int qq = 34;
 
 	
 }
