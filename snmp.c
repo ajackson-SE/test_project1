@@ -10,4 +10,6 @@ int function4(int w);
 
 int function5(int x, int y);
 
+int function6(int x, int y);
+
 // edit 4
