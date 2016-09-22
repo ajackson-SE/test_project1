@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #define alan 123
+#define jackson 456
 
 void func1()
 {
@@ -25,6 +26,9 @@ int main()
 	int ans = func2(34,23);
 	y = 45;
 	int qq = 34;
+	int s;
+
+	// new commmtn
 
 	
 }
