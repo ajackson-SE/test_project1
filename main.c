@@ -16,6 +16,12 @@ int func2(int x, int y)
 	return x +y;
 }
 
+int func3(int x)
+{
+	int y = x*x;
+	return y;
+}
+
 int main()
 {
 	printf("Hello World. this is a message\n");
